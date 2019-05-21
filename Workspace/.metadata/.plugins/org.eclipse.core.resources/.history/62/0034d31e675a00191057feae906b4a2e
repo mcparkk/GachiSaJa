@@ -1,0 +1,16 @@
+package ch04;
+
+public class Exam4_4 {
+//	1~99
+//	까지의 합 구하기
+
+	public static void main(String[] args) {
+			// 코드 작성
+		int sum = 0;
+		int i;
+		for(i=0; i<=100; i++)
+		{
+			sum += i;
+		}
+		System.out.println(+i);
+}
